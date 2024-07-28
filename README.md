@@ -45,7 +45,7 @@ decision-trees-titanic/
 └── requirements.txt
 ```
 ## Requirements
-The 'requirements.txt' file lists all the Python packages required to run the project. Install these dependencies to avoid any compatibility issues.
+The 'Requirements.txt' file lists all the Python packages required to run the project. Install these dependencies to avoid any compatibility issues.
 
 ## Results
 1) Best parameters: max_depth = 10, n_estimators: 100
