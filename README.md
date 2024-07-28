@@ -53,7 +53,7 @@ The 'requirements.txt' file lists all the Python packages required to run the pr
 3) The accuracy score for the randome forest classifier is: 0.785
 4) The accuracy score for the boosted classifier is: 0.807
 5) The accuracy score for the random forest classifier with the best parameters is: 0.812
-6) The visualisation of the trees from Bagging, Random Forest, and AdaBoost classifiers are available in the results folder.
+6) The visualisation of the trees from Bagging, Random Forest, and AdaBoost classifiers are attached.
 
 ## Conclusion 
 According to the accuracy scores calculated, the model with the highest accuracy score, hence, the model that performed the best is the tuned random forest classifier model, with the values n_estimators=100 and max_depth=10.
